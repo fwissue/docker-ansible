@@ -3,7 +3,7 @@
 https://hub.docker.com/fwissue/docker-ansible-network-automation
 
 with Python 3.9.2
-with Ansible 2.10.8
+and Ansible 2.10.8
 # /usr/lib/python3/dist-packages/ansible_collections
 Collection                Version
 ------------------------- -------
